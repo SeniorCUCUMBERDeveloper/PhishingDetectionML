@@ -1,0 +1,22 @@
+From: HR Payroll Services <payroll@secure-hrsystems.example.org>
+To: john.doe@staff.example.com
+Subject: Urgent: Payroll Access Verification Required
+Date: Mon, 15 Apr 2024 14:32:17 +0000
+Message-ID: <20240415143217.7A8B3C@example.org>
+Reply-To: support@hr-verification.example.org
+
+Dear John Doe,
+
+Due to recent security updates to our payroll system, your access has been temporarily suspended. To reactivate your account and ensure uninterrupted access to your payroll information, please verify your identity by scanning the QR code below using your mobile device.
+
+Scan the QR code below to complete the verification process:
+
+[QR-code-20240415.png]
+
+This step is mandatory for all employees and must be completed within the next 24 hours to avoid further access restrictions. If you encounter any issues, contact our support team immediately at support@hr-verification.example.org.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+HR Payroll Services
+secure-hrsystems.example.org

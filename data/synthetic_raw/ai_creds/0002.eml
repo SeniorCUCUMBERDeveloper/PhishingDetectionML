@@ -1,0 +1,24 @@
+From: SecureBank Account Security <security@securebank-notifications.example.org>
+To: john.doe@personalmail.example.net
+Subject: Immediate Action Required: Unusual Sign-In Activity Detected
+Date: Tue, 14 Jan 2025 09:12:47 -0500
+Reply-To: no-reply@securebank-notifications.example.org
+Message-ID: <123456789.abcdef@example.org>
+
+Dear John Doe,
+
+We detected a sign-in attempt to your SecureBank account from an unrecognized device in Toronto, ON at 8:47 AM EST on January 14, 2025. If this was you, you can safely ignore this message.
+
+However, if you do not recognize this activity, your account may be at risk. To protect your funds and personal information, we require you to verify your identity immediately.
+
+Please confirm your account details by visiting the following secure verification link:
+
+https://account-verify.example-login.com/secure?token=XYZ123ABC456
+
+This link will expire in 24 hours for your security. Failure to verify your account may result in temporary suspension to prevent unauthorized access.
+
+Thank you for helping us keep your account secure.
+
+SecureBank Security Team
+© 2025 SecureBank Corporation. All rights reserved.
+```

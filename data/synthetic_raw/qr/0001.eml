@@ -1,0 +1,20 @@
+From: HR Support <hr-support@myworkforce.example.org>
+To: jane.doe@staff.example.com
+Subject: Action Required: Re-activate HR Self-Service Access
+Date: Mon, 13 May 2024 09:15:22 +0000
+Reply-To: hr-support@myworkforce.example.org
+Message-ID: <1234567890@myworkforce.example.org>
+
+Dear Jane Doe,
+
+Your HR Self-Service portal access has been temporarily suspended due to recent security updates. To re-activate your account and confirm your identity, please scan the QR code below using your mobile device.
+
+Once scanned, you will be directed to verify your credentials and regain access to your secure HR documents and payroll information.
+
+If you did not request this action or believe this is an error, contact HR Support immediately at hr-support@myworkforce.example.org.
+
+Thank you,
+HR Support Team
+MyWorkforce Solutions
+
+[QR code attached: QR_ReActivate_Access.png]

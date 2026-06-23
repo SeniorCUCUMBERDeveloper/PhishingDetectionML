@@ -1,0 +1,23 @@
+From: PayQuick Security <security@payquick-alerts.example>
+To: j.thompson@example.org
+Subject: [Action Required] Unusual Sign-In Activity Detected
+Date: Mon, 12 May 2025 14:32:17 +0000
+Message-ID: <12345.67890@example-login.com>
+Reply-To: no-reply@payquick-support.example
+
+Dear j.thompson,
+
+We detected a sign-in attempt from a new device or location on your PayQuick account at 14:25 UTC today. For your security, we’ve temporarily locked access until you verify this activity.
+
+To confirm your identity and restore full access, please complete the verification process within the next 24 hours:
+
+🔒 Verify Your Account Now: https://account-verify.example-login.com/secure?token=abc123xyz456
+
+If you did not attempt to sign in, please contact our Fraud Prevention Team immediately.
+
+Thank you for helping us keep your account secure.
+
+Best regards,
+PayQuick Security Team
+© 2025 PayQuick Inc. All rights reserved.
+```

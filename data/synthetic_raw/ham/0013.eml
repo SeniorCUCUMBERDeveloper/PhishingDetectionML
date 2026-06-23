@@ -1,0 +1,25 @@
+From: billing@securebank.example.org
+To: jordan.lee@invented-corp.example.com
+Subject: Your SecureBank Monthly Statement - August 2024
+Date: Tue, 3 Sep 2024 09:15:22 -0700
+Message-ID: <20240903091522.7A3D4E8@example.org>
+Reply-To: support@securebank.example.org
+
+Dear Jordan Lee,
+
+Your August 2024 statement for account ending in 7842 is now available. Below is a summary of your account activity:
+
+- Opening Balance: $12,450.32
+- Total Deposits: $8,200.00
+- Total Withdrawals: $5,675.50
+- Closing Balance: $14,974.82
+
+You can view your full statement and transaction history by logging into your SecureBank online portal at https://securebank.example.org/accounts.
+
+If you have any questions about your statement or need assistance, please contact our support team at support@securebank.example.org or call us at (800) 555-0198.
+
+Thank you for banking with SecureBank.
+
+Best regards,
+SecureBank Billing Team
+```

@@ -1,0 +1,44 @@
+From: SecureBank Customer Service <noreply@securebank.example.com>
+To: Jordan Taylor <jordan.taylor@example.org>
+Subject: Your SecureBank Credit Card Statement for May 2024
+Date: Wed, 5 Jun 2024 09:15:22 -0700
+Message-ID: <20240605161522.78945.12345@securebank.example.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your SecureBank Statement for May 2024</title>
+</head>
+<body>
+    <p>Dear Jordan Taylor,</p>
+
+    <p>Your SecureBank credit card statement for May 2024 is now available. Below is a summary of your account activity:</p>
+
+    <table border="1" cellpadding="5" cellspacing="0">
+        <tr>
+            <th>Statement Date</th>
+            <th>Payment Due Date</th>
+            <th>New Balance</th>
+            <th>Minimum Payment Due</th>
+        </tr>
+        <tr>
+            <td>May 31, 2024</td>
+            <td>June 25, 2024</td>
+            <td>$1,245.67</td>
+            <td>$35.00</td>
+        </tr>
+    </table>
+
+    <p>For a detailed view of your transactions, please <a href="https://securebank.example.com/statements/2024-05">log in to your account</a>.</p>
+
+    <p>If you have any questions about your statement, feel free to contact our customer service team at 1-800-555-0199 or visit our <a href="https://securebank.example.com/help">Help Center</a>.</p>
+
+    <p>Thank you for banking with SecureBank.</p>
+
+    <p>Best regards,<br>
+    SecureBank Customer Service</p>
+</body>
+</html>

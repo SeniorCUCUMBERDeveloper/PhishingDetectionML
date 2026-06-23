@@ -1,0 +1,37 @@
+From: PayQuick Receipts <receipts@payquick.example>
+To: jordan.lee@mail.example.org
+Subject: Your PayQuick Order #PQ-4729381 – Receipt Attached
+Date: Mon, 13 May 2024 14:32:17 +0000
+Message-ID: <20240513143217.8A4B2C@example.payquick.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_NextPart_000_0012_01DAA52E.3A8F9C20"
+
+------=_NextPart_000_0012_01DAA52E.3A8F9C20
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Jordan,
+
+Thank you for your order with PayQuick. Your payment of $49.99 has been processed, and your receipt is attached.
+
+Order Summary
+Order #: PQ-4729381
+Date: May 13, 2024
+Items: 1 × Premium Software License (1-year subscription)
+Total: $49.99 (paid via saved card ending in 4219)
+
+Your subscription is now active and will renew automatically on May 13, 2025. You can manage your subscription or view your order details anytime in your PayQuick account: https://account.payquick.example/orders/PQ-4729381
+
+If you have any questions, our support team is happy to help: https://support.payquick.example
+
+Best regards,
+The PayQuick Team
+
+------=_NextPart_000_0012_01DAA52E.3A8F9C20
+Content-Type: application/pdf; name="PayQuick_Receipt_PQ-4729381.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="PayQuick_Receipt_PQ-4729381.pdf"
+
+[Base64-encoded PDF data omitted for brevity]
+
+------=_NextPart_000_0012_01DAA52E.3A8F9C20--

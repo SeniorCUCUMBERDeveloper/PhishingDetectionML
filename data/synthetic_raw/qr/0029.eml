@@ -1,0 +1,20 @@
+From: Document Services <noreply@secure-docs.example.org>
+To: john.parker@finance.example.com
+Subject: Immediate Action Required: Reactivate Document Access
+Date: Wed, 15 Jan 2025 09:12:44 -0500
+Message-ID: <20250115141244.78924@secure-docs.example.org>
+Reply-To: support@secure-docs.example.org
+
+Dear John Parker,
+
+Your access to the corporate document signing service has been temporarily suspended due to recent security updates. To restore your access and confirm your identity, please scan the QR code below using your mobile device.
+
+Once scanned, you will be directed to verify your credentials and regain full access to the platform.
+
+[QR code attached: reactivate_access_qr.png]
+
+If you did not request this verification or believe this message is in error, contact IT Security immediately at security@example.com.
+
+Thank you,
+Document Services Team
+secure-docs.example.org

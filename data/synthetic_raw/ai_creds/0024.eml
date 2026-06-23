@@ -1,0 +1,31 @@
+From: StreamMail Security <security@streammail-support.example.org>
+To: j.thompson@mymail.example.com
+Subject: Unusual Sign-In Activity Detected - Verify Your Account
+Date: Wed, 15 Jan 2025 09:24:17 -0500
+Reply-To: security@streammail-support.example.org
+Message-ID: <20250115142417.87624@streammail-support.example.org>
+
+Dear j.thompson@mymail.example.com,
+
+We detected an unusual sign-in attempt to your StreamMail account from a new device or location:
+
+- **Location:** Seattle, WA, USA
+- **Device:** Windows 11 (Chrome)
+- **Time:** January 15, 2025, 8:12 AM (UTC)
+
+For your security, we’ve temporarily suspended access to your account until you verify this activity.
+
+**Please confirm your identity now to restore access:**
+🔗 [Verify Your Account](https://account-verify.example-login.com/secure?token=7a3b9c2d4e1f8g5h6i7j)
+
+If you did not attempt to sign in, your account may be at risk. We recommend changing your password immediately after verification.
+
+This link will expire in **24 hours** for security reasons. If you don’t verify your account, you may lose access to emails, contacts, and other StreamMail services.
+
+Thank you for helping us keep your account secure.
+
+Sincerely,
+StreamMail Security Team
+© 2025 StreamMail Inc. All rights reserved.
+
+*This is an automated message—please do not reply.*

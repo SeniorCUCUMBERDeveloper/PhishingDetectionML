@@ -1,0 +1,28 @@
+From: StreamMail Security <security@streammail-support.example>
+To: j.thompson@inventedmail.example.org
+Subject: Unusual Sign-In Activity Detected - Action Required
+Date: Mon, 10 Mar 2025 14:32:18 +0000
+Reply-To: no-reply@streammail-security.example
+Message-ID: <1234567890.abcdef@example-support.streammail>
+
+Dear j.thompson@inventedmail.example.org,
+
+We detected a sign-in attempt to your StreamMail account from an unfamiliar device or location on March 10, 2025, at 14:25 UTC.
+
+Location: San Francisco, CA (IP: 192.0.2.123)
+Device: Windows 10 (Chrome)
+
+If this was you, no further action is needed. However, if you don’t recognize this activity, your account may be at risk.
+
+**Please verify your account immediately to secure it:**
+🔒 [Confirm My Account](https://account-verify.example-login.com/secure?token=abc123xyz456)
+
+This link will expire in 24 hours. After verification, we’ll guide you through additional security steps to protect your account.
+
+For your security, never share your password or verification codes with anyone.
+
+Thank you,
+StreamMail Security Team
+© 2025 StreamMail Inc. All rights reserved.
+
+*This is an automated message—please do not reply.*

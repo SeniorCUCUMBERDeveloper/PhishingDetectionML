@@ -1,0 +1,32 @@
+From: "Daniel Carter (Project Lead)" <dcarter@lumen-tech.example.org>
+To: "Sophia Lin" <slin@lumen-tech.example.org>
+Subject: Re: Project Aurora timeline adjustments =?unknown-8bit?b?4oCT?= final
+ review needed
+Date: Mon, 10 Mar 2025 09:15:23 -0700
+Message-ID: <20250310161523.7A3E89B8D@mail.lumen-support.example.com>
+Reply-To: reply@secure-account-update.example.net
+
+Hi Sophia,
+
+Following up on your note from last week about the Q3 deliverables—thanks for flagging the dependency on the API gateway team. I’ve attached the revised timeline (v3.2) that incorporates their latest ETA and shifts the beta release to June 12.
+
+Could you review the highlighted sections (pages 4–6) and confirm the new milestones work with your team’s sprint cadence? If everything looks good, I’ll lock it in with the steering committee tomorrow.
+
+Let me know by EOD today.
+
+Best,
+Daniel
+
+---
+Daniel Carter
+Project Lead, Lumen Tech
+dcarter@lumen-tech.example.org | +1 (555) 789-0123
+
+*From: Sophia Lin <slin@lumen-tech.example.org>*
+*Sent: Thursday, March 6, 2025 2:47 PM*
+*To: Daniel Carter <dcarter@lumen-tech.example.org>*
+*Subject: Re: Project Aurora timeline adjustments*
+
+*Daniel,*
+*Thanks for the update. My only concern is the API gateway team’s delay—we’ll need at least two weeks after their handoff to integrate and test. Can we push the beta release out by a week?*
+*—Sophia*

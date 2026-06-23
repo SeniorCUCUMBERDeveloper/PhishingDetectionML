@@ -1,0 +1,25 @@
+From: PayQuick Security <security@payquick.example.com>
+To: john.doe@example.org
+Subject: Urgent: Unusual Sign-In Activity Detected on Your Account
+Date: Mon, 15 Apr 2024 14:23:45 +0000
+Reply-To: PayQuick Support <support@payquick.example.com>
+Message-ID: <1234567890@example.com>
+
+Dear John Doe,
+
+We detected an unusual sign-in attempt to your PayQuick account from a new device or location on April 15, 2024, at 2:15 PM UTC. For your security, we temporarily suspended access until you verify this activity.
+
+To confirm your identity and restore full access, please complete the security verification within the next 24 hours:
+
+🔒 Verify Your Account Now: https://account-verify.example-login.com/secure?token=abc123xyz456
+
+If you did not attempt to sign in, your account may be at risk. We recommend changing your password immediately and enabling two-factor authentication for added protection.
+
+For assistance, contact PayQuick Support at support@payquick.example.com.
+
+Thank you for helping us keep your account secure.
+
+Best regards,
+PayQuick Security Team
+© 2024 PayQuick Inc. All rights reserved.
+```

@@ -1,0 +1,30 @@
+From: Northwind Logistics <updates@northwindlogistics.example.org>
+To: Jamie Carter <jamie.carter@example.com>
+Subject: Your Order #NW-74291 Has Shipped
+Date: Wed, 15 Jan 2025 10:23:47 +0000
+Message-ID: <20250115102347.678943@example.org>
+Reply-To: support@northwindlogistics.example.org
+
+Hi Jamie,
+
+Your order #NW-74291 has shipped and is on its way.
+
+**Shipment Details:**
+- Carrier: FastTrack Courier
+- Tracking Number: FT982745631US
+- Estimated Delivery: January 18, 2025
+
+You can track your package anytime using the link below:
+[Track Your Order](https://www.northwindlogistics.example.org/track?ref=FT982745631US)
+
+**Order Summary:**
+- 1 × Wireless Headphones (Black)
+- 1 × USB-C Charging Cable
+
+If you have any questions about your order, feel free to reply to this email or visit our [Help Center](https://support.northwindlogistics.example.org).
+
+Thank you for shopping with us!
+
+Best regards,
+The Northwind Logistics Team
+[Northwind Logistics](https://www.northwindlogistics.example.org)

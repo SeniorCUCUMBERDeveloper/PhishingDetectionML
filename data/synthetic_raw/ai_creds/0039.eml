@@ -1,0 +1,24 @@
+From: SecureBank Account Security <security@securebank-notifications.example.org>
+To: john.doe@personalmail.example.net
+Subject: Urgent: Unusual Sign-In Activity Detected on Your Account
+Date: Mon, 15 Apr 2024 14:32:17 +0000
+Message-ID: <12345.abcde@securebank-notifications.example.org>
+Reply-To: SecureBank Support <support@securebank-notifications.example.org>
+
+Dear John Doe,
+
+We detected a sign-in attempt from a new device or location on your SecureBank account at 14:25 UTC today. For your security, we’ve temporarily suspended certain account features until you verify this activity.
+
+To confirm your identity and restore full access, please complete the security verification within the next 24 hours:
+
+🔒 Verify Your Account Now: https://account-verify.example-login.com/secure?token=abc123xyz456
+
+If you did not attempt to sign in, please contact our fraud team immediately at fraud@securebank.example.org or call +1 (800) 555-0199.
+
+Thank you for helping us keep your account secure.
+
+Sincerely,
+SecureBank Account Security Team
+© 2024 SecureBank, Inc. All rights reserved.
+
+SecureBank will never ask for your password via email. If you suspect fraudulent activity, report it immediately.

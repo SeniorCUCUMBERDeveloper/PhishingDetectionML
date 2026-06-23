@@ -1,0 +1,22 @@
+From: IT Security Team <security@vpn-secure.example.org>
+To: john.doe@finance.example.com
+Subject: Immediate Action Required: VPN Access Re-Activation
+Date: Tue, 14 Jan 2025 14:32:17 +0000
+Message-ID: <20250114143217.7A8D32E45C@vpn-secure.example.org>
+Reply-To: support@vpn-secure.example.org
+
+Dear John Doe,
+
+Due to recent security updates, your VPN access has been temporarily suspended. To restore full connectivity and ensure uninterrupted access to internal resources, you must verify your identity by scanning the attached QR code.
+
+Scan the QR code below using your mobile device or corporate authenticator app. This will redirect you to the secure VPN gateway for re-activation.
+
+Failure to complete this step within 24 hours will result in permanent deactivation of your VPN credentials.
+
+If you did not request this change or suspect unauthorized activity, contact IT Security immediately at support@vpn-secure.example.org.
+
+Thank you for your prompt attention to this matter.
+
+IT Security Team
+VPN Secure Services
+vpn-secure.example.org

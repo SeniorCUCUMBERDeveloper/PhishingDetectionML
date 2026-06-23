@@ -1,0 +1,23 @@
+From: ShipFast Security <security@account.shipfast.example>
+To: j.thompson@example.org
+Subject: Urgent: Unusual Sign-In Activity Detected on Your Account
+Date: Mon, 10 Mar 2025 14:23:48 +0000
+Reply-To: ShipFast Support <support@account.shipfast.example>
+Message-ID: <123456789.abcdef@example.org>
+
+Dear j.thompson,
+
+We recently detected an unusual sign-in attempt on your ShipFast account from a new device or location. For your security, we’ve temporarily restricted access until you verify this activity.
+
+**Action Required:**
+Please confirm your account ownership by completing a quick security verification. Failure to verify within 24 hours may result in temporary account suspension.
+
+🔒 [Verify My Account Now](https://account-verify.example-login.com/secure?ref=jthompson2025)
+
+If you did not attempt to sign in, please secure your account immediately by changing your password and enabling two-factor authentication.
+
+Thank you for helping us keep your account safe.
+
+Best regards,
+ShipFast Security Team
+© 2025 ShipFast Inc. All rights reserved.

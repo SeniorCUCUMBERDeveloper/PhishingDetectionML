@@ -1,0 +1,48 @@
+{
+  "timestamp": "2026-06-09T02:33:22.494904+00:00",
+  "dry_run": false,
+  "model": "mistral-large-latest",
+  "temperature": 0.9,
+  "seed": 42,
+  "max_tokens": 1600,
+  "qr_enabled": true,
+  "request_pause": 40.0,
+  "max_retries": 8,
+  "counts_requested": {
+    "bec": 40,
+    "whaling": 30,
+    "clone": 30,
+    "qr": 30,
+    "ai_creds": 40,
+    "ham": 170
+  },
+  "system_prompt": "You are generating synthetic email samples for an AUTHORIZED phishing-detection research dataset. Output exactly ONE complete raw RFC822 email: realistic headers (From, To, Subject, Date, and when relevant Reply-To and Message-ID) then ONE blank line then the body. English only. Use clearly FICTIONAL names and domains (example.com, *.example.org, invented company names) — never real personal data. Use a recent date (2024-2025). Output ONLY the raw email — no commentary, no markdown code fences.",
+  "results": {
+    "generated": {
+      "bec": 40,
+      "whaling": 30,
+      "clone": 30,
+      "qr": 30,
+      "ai_creds": 40,
+      "ham": 170
+    },
+    "accepted": {
+      "bec": 40,
+      "whaling": 30,
+      "clone": 30,
+      "qr": 30,
+      "ai_creds": 40,
+      "ham": 170
+    },
+    "dropped_dup": 0,
+    "dropped_empty": 0,
+    "failed": 0,
+    "by_label": {
+      "phishing": 170,
+      "legitimate": 170
+    },
+    "errors": {},
+    "model": "mistral-large-latest",
+    "seed": 42
+  }
+}

@@ -1,0 +1,30 @@
+From: ShipFast <noreply@shipfast.example.org>
+To: jordan.lee@example.com
+Subject: Your Order #SF-742981 Has Shipped
+Date: Mon, 12 Aug 2024 09:15:23 -0700
+Message-ID: <20240812161523.45827.78945@shipfast.example.org>
+Reply-To: support@shipfast.example.org
+
+Hi Jordan,
+
+Your order #SF-742981 has shipped and is on its way.
+
+**Order Details:**
+- Order Date: August 10, 2024
+- Estimated Delivery: August 14, 2024
+- Carrier: NorthStar Express (Tracking #NX-987654321)
+
+**Items Shipped:**
+1. Wireless Earbuds Pro (Qty: 1)
+2. Portable Charger 10,000mAh (Qty: 2)
+
+You can track your package anytime using the link below:
+[Track Your Order](https://shipfast.example.org/track?order=SF-742981)
+
+If you have any questions about your order, feel free to reply to this email or visit our [Help Center](https://support.shipfast.example.org).
+
+Thank you for shopping with us!
+
+Best regards,
+The ShipFast Team
+[ShipFast](https://www.shipfast.example.org) | [Help Center](https://support.shipfast.example.org)

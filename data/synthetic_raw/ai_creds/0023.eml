@@ -1,0 +1,30 @@
+From: MeetSync Security <security@account.meetsync.example>
+To: jordan.parker@inventedcorp.example.org
+Subject: Urgent: Unusual Sign-In Activity Detected on Your MeetSync Account
+Date: Mon, 12 May 2025 14:32:18 +0000
+Reply-To: no-reply@meetsync.example
+Message-ID: <1234567890.abcdef@example-mail.meetsync.example>
+
+Dear Jordan Parker,
+
+We detected a sign-in attempt to your MeetSync account from a new device or location on May 12, 2025, at 14:15 UTC. For your security, we’ve temporarily suspended access until you verify this activity.
+
+**Device:** Windows 10
+**Location:** San Francisco, CA (or a nearby city)
+**IP Address:** 192.0.2.45
+
+To secure your account, please confirm this was you by completing the verification process below:
+
+🔒 [Verify Your Account Now](https://account-verify.example-login.com/secure?token=abc123xyz456&user=jordan.parker@inventedcorp.example.org)
+
+If you did not attempt to sign in, your account may be at risk. We recommend changing your password immediately and enabling two-factor authentication (2FA) for added protection.
+
+This verification link will expire in **24 hours**. After that, you’ll need to contact MeetSync Support to regain access.
+
+For your security, never share your password or verification codes with anyone.
+
+Thank you,
+MeetSync Security Team
+© 2025 MeetSync Inc. All rights reserved.
+
+**Note:** This is an automated message. Please do not reply directly to this email. For assistance, visit [MeetSync Support](https://support.meetsync.example).

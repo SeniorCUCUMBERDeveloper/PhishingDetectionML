@@ -1,0 +1,25 @@
+From: Northwind Logistics <noreply@shipments.northwindlogistics.example.org>
+To: Jordan Carter <jordan.carter@example.com>
+Subject: Your Northwind Logistics Shipment #NW-748291 is Out for Delivery
+Date: Mon, 12 May 2025 08:15:23 -0700
+Message-ID: <20250512151523.67892.45678@shipments.northwindlogistics.example.org>
+Reply-To: support@northwindlogistics.example.org
+
+Hello Jordan,
+
+Your package (Order #NW-748291) is on its way and out for delivery today. You can expect it to arrive by the end of the day.
+
+**Shipment Details:**
+- Carrier: Northwind Express
+- Tracking Number: NWX-987654321
+- Estimated Delivery: May 12, 2025 (by 8:00 PM local time)
+- Shipping Address: 123 Maple Street, Apt 4B, Springfield, OR 97477
+
+You can track your package in real-time using our [Shipment Tracking Tool](https://www.northwindlogistics.example.org/tracking?ref=NWX-987654321).
+
+If you have any questions about your delivery, feel free to reply to this email or visit our [Help Center](https://support.northwindlogistics.example.org).
+
+Thank you for choosing Northwind Logistics!
+
+Best regards,
+The Northwind Logistics Team

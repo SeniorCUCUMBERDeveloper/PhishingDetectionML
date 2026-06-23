@@ -1,0 +1,25 @@
+From: ShipFast Notifications <no-reply@shipfast.example.org>
+To: jordan.lee@mail.example.com
+Subject: Your ShipFast order #SF-982345 has been delivered
+Date: Wed, 15 May 2024 09:12:47 -0700
+Message-ID: <20240515161247.7A3E8B7C@example.org>
+Reply-To: support@shipfast.example.org
+
+Hi Jordan,
+
+Your order #SF-982345 has been delivered to 123 Maple Street, Apt 4B, Springfield, IL 62704.
+
+Delivery details:
+- Carrier: NorthStar Courier
+- Delivered on: May 15, 2024 at 8:45 AM
+- Signed by: J. Smith
+
+You can view your order details and tracking history here: https://www.shipfast.example.org/orders/SF-982345
+
+If you have any questions about your delivery, feel free to reply to this email or visit our Help Center: https://help.shipfast.example.org
+
+Thank you for choosing ShipFast!
+
+Best regards,
+The ShipFast Team
+```

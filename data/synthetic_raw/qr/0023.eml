@@ -1,0 +1,22 @@
+From: Payroll Support <payroll@secure-hrlink.example.org>
+To: john.doe@staff.example.com
+Subject: Immediate Action Required: Re-activate Your Payroll Access
+Date: Mon, 15 Apr 2024 09:23:45 +0000
+Message-ID: <1234567890@secure-hrlink.example.org>
+Reply-To: payroll@secure-hrlink.example.org
+
+Dear John Doe,
+
+Your access to the payroll system has been temporarily suspended due to a recent security update. To re-activate your account and confirm your identity, please scan the QR code below using your mobile device:
+
+[ QR Code Image Attached ]
+
+Once scanned, you will be directed to verify your credentials and restore full access to your payroll dashboard, including secure documents and payment details.
+
+This step is mandatory for all employees to ensure compliance with our updated security protocols. If you do not complete this process within 24 hours, your access will remain locked.
+
+Thank you for your prompt attention to this matter.
+
+Payroll Support Team
+secure-hrlink.example.org
+```

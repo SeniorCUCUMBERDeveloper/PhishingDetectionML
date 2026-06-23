@@ -1,0 +1,22 @@
+From: IT Support <itsupport@securecorp-example.org>
+To: jane.doe@devteam-example.com
+Subject: Immediate Action Required: Reactivate Secure Drive Access
+Date: Tue, 14 Jan 2025 09:17:22 -0500
+Reply-To: noreply@securecorp-example.org
+Message-ID: <20250114091722.78945.qmail@securecorp-example.org>
+
+Dear Jane Doe,
+
+Your access to the SecureCorp shared drive has been temporarily suspended due to recent security updates. To restore access and confirm your identity, please scan the QR code below using your mobile device or corporate authentication app.
+
+Scan the QR code below:
+
+[QRCODE_ATTACHMENT: reactivate_access_qr.png]
+
+This step is mandatory to ensure the security of sensitive company data. Failure to complete this process within 24 hours will result in permanent deactivation of your account.
+
+If you did not request this change or suspect unauthorized activity, contact IT Security immediately at security@securecorp-example.org.
+
+Thank you,
+SecureCorp IT Support Team
+securecorp-example.org | Confidentiality Notice: This message is for the designated recipient only.

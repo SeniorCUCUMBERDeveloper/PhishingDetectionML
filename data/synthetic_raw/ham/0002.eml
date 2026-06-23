@@ -1,0 +1,31 @@
+From: StreamMail Fulfillment <fulfillment@orders.streammail.example.org>
+To: jordan.lee@example.net
+Subject: Your StreamMail Order #SM-2024-78421 Has Shipped
+Date: Tue, 14 May 2024 14:32:17 +0000
+Message-ID: <20240514143217.7A3D2C8001@orders.streammail.example.org>
+Reply-To: support@streammail.example.org
+
+Hi Jordan,
+
+Your order #SM-2024-78421 has shipped and is on its way.
+
+Order Summary
+• 1 × Premium Noise-Cancelling Headphones – $199.00
+• 1 × Wireless Charging Pad – $29.99
+Subtotal: $228.99
+Shipping: Free
+Total: $228.99
+
+Tracking Information
+Carrier: Northwind Logistics
+Tracking #: NWL-987654321-US
+Estimated Delivery: May 17, 2024
+
+You can view the full order details and track your package anytime here:
+https://orders.streammail.example.org/track?order=SM-2024-78421
+
+Need help? Visit our Help Center at https://support.streammail.example.org or reply to this email.
+
+Thanks for shopping with StreamMail.
+
+— The StreamMail Team

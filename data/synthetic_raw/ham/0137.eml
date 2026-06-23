@@ -1,0 +1,32 @@
+From: billing@northwindlogistics.example.org
+To: jordan.lee@brightpeak.example.com
+Subject: Your Northwind Logistics Invoice #NW-2024-8732
+Date: Tue, 14 May 2024 09:15:23 -0700
+Message-ID: <20240514161523.7A3C42@example.org>
+Reply-To: accounts@northwindlogistics.example.org
+
+Dear Jordan Lee,
+
+Your recent shipment (Invoice #NW-2024-8732) has been processed and is scheduled for delivery on May 16, 2024. Below are the details of your order:
+
+**Invoice Summary**
+Invoice Number: NW-2024-8732
+Order Date: May 10, 2024
+Delivery Date: May 16, 2024
+Total Amount: $1,245.00
+
+**Shipment Details**
+Tracking Number: NW987654321
+Carrier: SpeedyFreight
+Estimated Delivery: May 16, 2024 by 5:00 PM
+
+You can view the full invoice and track your shipment here:
+https://northwindlogistics.example.org/invoice/NW-2024-8732
+
+If you have any questions about this invoice or your shipment, please reply to this email or contact our support team at support@northwindlogistics.example.org.
+
+Thank you for choosing Northwind Logistics.
+
+Best regards,
+Northwind Logistics Billing Team
+https://northwindlogistics.example.org

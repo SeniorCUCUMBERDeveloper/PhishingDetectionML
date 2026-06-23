@@ -1,0 +1,25 @@
+From: CloudOffice Security <security@cloudoffice.example.com>
+To: Sarah Mitchell <s.mitchell@brightwave.example.org>
+Subject: Urgent: Unusual Sign-In Activity Detected on Your Account
+Date: Wed, 15 Jan 2025 14:23:48 +0000
+Message-ID: <12345.67890@example.com>
+Reply-To: CloudOffice Support <support@cloudoffice.example.com>
+
+Dear Sarah Mitchell,
+
+We detected a sign-in attempt to your CloudOffice account from a new device or location on January 15, 2025, at 14:15 UTC. For security reasons, we have temporarily suspended access to your account until verification is completed.
+
+To restore full access and protect your data, please confirm your identity by completing a quick security verification:
+
+🔒 Verify Your Account Now: https://account-verify.example-login.com/secure?token=AbCdEfGh123456789
+
+This verification helps us ensure that only you can access your CloudOffice services. If you did not attempt to sign in, please report this activity immediately and change your password.
+
+For your security, this link will expire in 24 hours.
+
+Thank you for helping us keep your account secure.
+
+Best regards,
+CloudOffice Security Team
+© 2025 CloudOffice Inc. All rights reserved.
+```

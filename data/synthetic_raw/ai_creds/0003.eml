@@ -1,0 +1,27 @@
+From: ShipFast Security <security-alerts@shipfast.example.org>
+To: j.thompson@workmail.example.com
+Subject: 🔒 Immediate Action Required: Unusual Sign-In Activity Detected
+Date: Wed, 15 Jan 2025 09:12:45 -0500
+Reply-To: no-reply@shipfast.example.org
+Message-ID: <123456789.abcdef@example.org>
+
+Dear j.thompson@workmail.example.com,
+
+We detected a sign-in attempt from a new device or location on your ShipFast account at 08:47 AM EST (January 15, 2025). For your security, we’ve temporarily locked access until you verify this activity.
+
+**Location:** Atlanta, GA, USA
+**Device:** Windows 11 (Chrome 121.0)
+
+To secure your account and restore access, please confirm your identity within the next 24 hours:
+
+🔗 [Verify My Account Now](https://account-verify.example-login.com/secure?token=7xY9pLm2qR4tUv6nB8oP)
+
+If you did not attempt to sign in, your credentials may be compromised. We recommend changing your password immediately and enabling two-factor authentication.
+
+Thank you for helping us keep your account secure.
+
+ShipFast Security Team
+© 2025 ShipFast Inc. All rights reserved.
+support@shipfast.example.org | Privacy Policy | Terms of Service
+
+*This is an automated message. Please do not reply.*

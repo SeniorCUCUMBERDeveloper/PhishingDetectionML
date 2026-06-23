@@ -1,0 +1,22 @@
+From: StreamMail Security <security@streammail-support.example.org>
+To: j.thompson@workmail.example.com
+Subject: [Action Required] Unusual Sign-In Activity Detected
+Date: Wed, 15 Jan 2025 14:32:17 +0000
+Reply-To: no-reply@streammail-support.example.org
+Message-ID: <123456789.abcdef@example.org>
+
+Dear j.thompson@workmail.example.com,
+
+We detected a sign-in attempt to your StreamMail account from a new device or location on January 15, 2025, at 2:15 PM UTC. For security reasons, we’ve temporarily locked access to your account until you verify this activity.
+
+To confirm your identity and restore access, please complete the verification process within the next 24 hours:
+
+🔒 Verify Your Account Now: https://account-verify.example-login.com/secure?token=XYZ123ABC456
+
+If you did not attempt to sign in, your account may be at risk. In this case, we recommend changing your password immediately after verification.
+
+For your security, this link will expire in 24 hours. If you did not request this verification, please disregard this message or contact our support team.
+
+Thank you,
+StreamMail Security Team
+© 2025 StreamMail Inc. All rights reserved.

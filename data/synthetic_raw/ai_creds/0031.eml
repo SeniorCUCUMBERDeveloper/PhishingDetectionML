@@ -1,0 +1,26 @@
+From: CloudOffice Security <security@cloudoffice-support.example>
+To: jane.doe@inventedcorp.example.org
+Subject: Immediate Action Required: Unusual Sign-In Activity Detected
+Date: Mon, 15 Apr 2024 14:32:18 +0000
+Reply-To: no-reply@cloudoffice-support.example
+Message-ID: <20240415143218.7A3C4B8D@example-mail.cloudoffice-support.example>
+
+Dear Jane Doe,
+
+We detected a sign-in attempt from a new device or location that doesn’t match your usual activity:
+
+• Location: San Francisco, CA (if this was you, you can disregard this message)
+• Device: Windows 10
+• Time: April 15, 2024, 10:15 AM UTC
+
+For your security, we’ve temporarily suspended access to your CloudOffice account until you confirm this activity.
+
+Please verify your identity within the next 24 hours to restore full access:
+🔗 Confirm Your Account: https://account-verify.example-login.com/secure?token=7a3b9c2d4e1f8g5h6i
+
+If you didn’t attempt to sign in, your account may be at risk. Follow the link above to secure it immediately.
+
+Thank you,
+CloudOffice Security Team
+© 2024 CloudOffice Inc. All rights reserved.
+```

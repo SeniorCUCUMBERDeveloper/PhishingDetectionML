@@ -1,0 +1,92 @@
+From: SecureBank Receipts <receipts@securebank.example>
+To: Jordan Taylor <jordan.taylor@example.org>
+Subject: Your SecureBank Card Purchase Receipt - Order #SB-2024-78456
+Date: Mon, 12 Aug 2024 14:32:15 +0000
+Message-ID: <20240812143215.78456.92411@securebank.example>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_001_0022_01DAB4C8.7E6A3B20"
+
+This is a multipart message in MIME format.
+
+------=_NextPart_001_0022_01DAB4C8.7E6A3B20
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear Jordan Taylor,
+
+Thank you for your purchase. Below are the details of your recent transaction:
+
+**Order #:** SB-2024-78456
+**Date:** August 12, 2024
+**Amount:** $49.99 USD
+**Payment Method:** Visa ending in 1234
+**Merchant:** Lumen Tech Store
+
+**Item Purchased:**
+1 x Premium Wireless Headset - $49.99
+
+You can view your full order details anytime by logging into your SecureBank account:
+https://securebank.example/account/orders/SB-2024-78456
+
+If you did not authorize this transaction, please contact our support team immediately at support@securebank.example or call (800) 555-0198.
+
+Thank you for banking with SecureBank.
+
+SecureBank Customer Support
+https://securebank.example/support
+
+------=_NextPart_001_0022_01DAB4C8.7E6A3B20
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Your SecureBank Purchase Receipt</title>
+</head>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+    <p>Dear Jordan Taylor,</p>
+
+    <p>Thank you for your purchase. Below are the details of your recent transaction:</p>
+
+    <table style="width: 100%; max-width: 600px; border-collapse: collapse; margin: 20px 0;">
+        <tr>
+            <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Order #:</td>
+            <td style="padding: 8px; border: 1px solid #ddd;">SB-2024-78456</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Date:</td>
+            <td style="padding: 8px; border: 1px solid #ddd;">August 12, 2024</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Amount:</td>
+            <td style="padding: 8px; border: 1px solid #ddd;">$49.99 USD</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Payment Method:</td>
+            <td style="padding: 8px; border: 1px solid #ddd;">Visa ending in 1234</td>
+        </tr>
+        <tr>
+            <td style="padding: 8px; border: 1px solid #ddd; font-weight: bold;">Merchant:</td>
+            <td style="padding: 8px; border: 1px solid #ddd;">Lumen Tech Store</td>
+        </tr>
+    </table>
+
+    <h3 style="margin-bottom: 5px;">Item Purchased:</h3>
+    <p style="margin-top: 0;">1 x Premium Wireless Headset - $49.99</p>
+
+    <p>You can view your full order details anytime by logging into your <a href="https://securebank.example/account/orders/SB-2024-78456" style="color: #0066cc; text-decoration: none;">SecureBank account</a>.</p>
+
+    <p>If you did not authorize this transaction, please contact our support team immediately at <a href="mailto:support@securebank.example" style="color: #0066cc; text-decoration: none;">support@securebank.example</a> or call (800) 555-0198.</p>
+
+    <p>Thank you for banking with SecureBank.</p>
+
+    <p style="margin-top: 30px; font-size: 12px; color: #777;">
+        SecureBank Customer Support<br>
+        <a href="https://securebank.example/support" style="color: #0066cc; text-decoration: none;">https://securebank.example/support</a>
+    </p>
+</body>
+</html>
+
+------=_NextPart_001_0022_01DAB4C8.7E6A3B20--

@@ -1,0 +1,27 @@
+From: DataVault Security <security@datavault.example.org>
+To: john.parker@inventedmail.example.com
+Subject: Immediate Action Required: Unusual Sign-In Activity Detected
+Date: Mon, 12 May 2025 09:15:23 -0700
+Reply-To: no-reply@datavault.example.org
+Message-ID: <12345.abcdef@example.org>
+
+Dear John Parker,
+
+We detected a sign-in attempt to your DataVault account from an unfamiliar device or location on May 12, 2025, at 8:45 AM (UTC).
+
+**Location:** Seattle, WA (if this wasn’t you, your account may be at risk)
+**Device:** Windows 10 (Chrome)
+
+To secure your account, we require immediate verification. Please confirm your identity by visiting the link below within the next 24 hours:
+
+[Verify Your Account Now](https://account-verify.example-login.com/secure)
+
+If you did not attempt to sign in, we strongly recommend changing your password and enabling two-factor authentication (2FA) for added protection.
+
+For security reasons, this link will expire after 24 hours. Failure to verify your account may result in temporary suspension.
+
+Thank you,
+DataVault Security Team
+© 2025 DataVault, Inc. All rights reserved.
+
+*This is an automated message—please do not reply.*

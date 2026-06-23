@@ -1,0 +1,26 @@
+From: CloudOffice Security <security@cloudoffice-notify.example.org>
+To: j.thompson@finwave.example.com
+Subject: Immediate Action Required: Unusual Sign-In Activity Detected
+Date: Mon, 12 May 2025 14:32:17 +0000
+Reply-To: CloudOffice Support <support@cloudoffice-notify.example.org>
+Message-ID: <123456789.abcdef@example.org>
+
+Dear Jennifer Thompson,
+
+We detected a sign-in attempt to your CloudOffice account from a new device or location on May 12, 2025, at 10:15 AM (UTC). For your security, we temporarily suspended access until you verify this activity.
+
+**Location:** Seattle, WA (IP: 198.51.100.42)
+**Device:** Windows 11, Chrome 124
+
+To restore access and protect your account, please confirm your identity within the next 24 hours by visiting:
+
+https://account-verify.example-login.com/secure?token=7a8b9c0d1e2f3g4h5i6j7k8l9m0n
+
+If you did not attempt to sign in, your credentials may be compromised. In this case, we recommend resetting your password immediately and enabling two-factor authentication.
+
+For assistance, contact CloudOffice Support at support@cloudoffice-notify.example.org.
+
+Thank you,
+CloudOffice Security Team
+© 2025 CloudOffice Inc. All rights reserved.
+```

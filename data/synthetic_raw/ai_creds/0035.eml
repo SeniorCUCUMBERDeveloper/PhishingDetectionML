@@ -1,0 +1,25 @@
+From: ShipFast Security <security@shipfast.example>
+To: jordan.parker@workmail.example.org
+Subject: Unusual Sign-In Activity Detected - Action Required
+Date: Mon, 12 May 2025 14:23:45 +0000
+Reply-To: no-reply@shipfast.example
+Message-ID: <1234567890.abcdef@shipfast.example>
+
+Dear Jordan Parker,
+
+We detected a sign-in attempt from a new device or location on your ShipFast account at 12:15 PM UTC today. For your security, we temporarily suspended access until you verify this activity.
+
+To confirm your identity and restore full access, please complete the verification process within the next 24 hours:
+
+🔒 Verify Your Account: https://account-verify.example-login.com/secure?token=7a3b9c1d5e8f2g4h6i0j
+
+If you did not attempt to sign in, please secure your account immediately by following the link above and contact our support team.
+
+Thank you for helping us keep your account safe.
+
+Best regards,
+The ShipFast Security Team
+
+© 2025 ShipFast Inc. All rights reserved.
+123 Logistics Way, Suite 456, Deliverytown, CA 90210
+```

@@ -1,0 +1,34 @@
+From: Northwind Logistics <noreply@nwlogistics.example.org>
+To: Jordan Carter <jordan.carter@mail.example.com>
+Subject: Your Order #NW-74291 Has Shipped
+Date: Wed, 15 May 2024 09:15:23 -0700
+Message-ID: <20240515161523.7A3D8C8002@mail.nwlogistics.example.org>
+Reply-To: support@nwlogistics.example.org
+
+Hello Jordan,
+
+Your order #NW-74291 has shipped and is on its way.
+
+Shipped on: May 15, 2024
+Carrier: Northwind Express
+Tracking number: NWX-984275631
+
+You can track your package anytime here:
+https://www.nwlogistics.example.org/track?ref=NWX-984275631
+
+Estimated delivery: May 18, 2024
+
+Order summary:
+- 1 × Wireless Earbuds Pro (Black) — $89.99
+- 1 × USB-C Charging Cable (1m) — $12.99
+- Subtotal: $102.98
+- Shipping: Free
+- Total: $102.98
+
+If you have any questions, feel free to reply to this email or visit our Help Center:
+https://support.nwlogistics.example.org
+
+Thank you for shopping with Northwind Logistics.
+
+Best regards,
+The Northwind Logistics Team

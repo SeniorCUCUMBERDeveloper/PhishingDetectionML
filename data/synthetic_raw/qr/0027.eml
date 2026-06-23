@@ -1,0 +1,24 @@
+From: DocuSign Security <security@docusign-verification.example.org>
+To: jane.doe@finance.example.com
+Subject: Immediate Action Required: Re-activate Document Signing Access
+Date: Wed, 15 Jan 2025 14:22:18 +0000
+Reply-To: no-reply@docusign-verification.example.org
+Message-ID: <20250115142218.789456@example.org>
+
+Dear Jane Doe,
+
+Your access to DocuSign document signing services has been temporarily suspended due to recent security updates. To re-activate your account and confirm your identity, please scan the QR code below using your mobile device's camera or a trusted QR scanner app.
+
+Scan the QR code below to proceed:
+
+[QR-Code-20250115.png]
+
+After scanning, you will be directed to verify your credentials and restore full access to your account. This process should take less than two minutes.
+
+If you did not request this verification or believe this message was sent in error, please disregard it. However, failure to complete this step within 24 hours will result in permanent deactivation of your signing privileges.
+
+Thank you for your prompt attention to this matter.
+
+DocuSign Security Team
+© 2025 DocuSign, Inc. All rights reserved.
+This message is intended for the sole use of the recipient and may contain confidential information. If you are not the intended recipient, please delete this message immediately.

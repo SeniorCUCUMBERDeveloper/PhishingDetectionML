@@ -1,0 +1,25 @@
+From: MeetSync Security <security@account.meetsync.example>
+To: j.thompson@inventedcorp.example.org
+Subject: Urgent: Unusual Sign-In Activity Detected on Your Account
+Date: Mon, 12 May 2025 14:32:17 +0000
+Message-ID: <1234567890.abcdef@example-meetsync.example>
+Reply-To: no-reply@meetsync-security.example
+
+Dear j.thompson@inventedcorp.example.org,
+
+We detected a sign-in attempt from a new device or location on your MeetSync account at 14:25 UTC on May 12, 2025. For your security, we’ve temporarily suspended access until you verify this activity.
+
+To confirm your identity and restore access, please complete the verification process within the next 24 hours:
+
+🔒 Verify Your Account Now: https://account-verify.example-login.com/secure?token=abc123-xyz456
+
+If you did not attempt to sign in, your account may be at risk. We recommend changing your password immediately and enabling two-factor authentication.
+
+For assistance, contact MeetSync Support at support@meetsync.example.
+
+Stay secure,
+The MeetSync Security Team
+
+© 2025 MeetSync Inc. All rights reserved.
+123 Tech Plaza, San Francisco, CA 94105
+```

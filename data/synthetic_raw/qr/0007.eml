@@ -1,0 +1,23 @@
+From: FedEx Secure Delivery <noreply@secure-parcel.example.org>
+To: john.doe@workmail.example.com
+Subject: Action Required: Verify Your Parcel Access
+Date: Mon, 15 Jul 2024 14:22:17 +0000
+Message-ID: <20240715142217.78945@secure-parcel.example.org>
+Reply-To: support@fedex-secure.example.org
+
+Dear John Doe,
+
+Your recent parcel (Tracking #FX-987654321) requires identity confirmation to restore access to the tracking page. Due to recent security updates, we have temporarily suspended your tracking privileges.
+
+To reactivate your access, please scan the QR code below using your mobile device. This will direct you to the secure verification portal where you can confirm your identity and resume tracking.
+
+Scan the QR code below:
+
+[QR-code-20240715.png]
+
+If you did not request this action or believe this email is in error, please contact our support team immediately at support@fedex-secure.example.org.
+
+Thank you for your cooperation.
+
+FedEx Secure Delivery Team
+© 2024 FedEx Corporation. All rights reserved.

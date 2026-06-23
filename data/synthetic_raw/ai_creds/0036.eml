@@ -1,0 +1,22 @@
+From: MeetSync Security <security@account.meetsync.example>
+To: j.thompson@staff.example.org
+Subject: Action Required: Unusual Sign-In Activity Detected
+Date: Wed, 15 Jan 2025 14:23:47 +0000
+Reply-To: no-reply@meetsync.example
+Message-ID: <1234567890@meetsync.example>
+
+Dear Jennifer Thompson,
+
+We detected a sign-in attempt to your MeetSync account from a new device in Berlin, Germany on January 15, 2025 at 14:15 UTC. If this was you, you can safely ignore this message.
+
+However, if you don’t recognize this activity, your account may be at risk. To secure your account, please confirm your identity by completing a quick verification:
+
+🔒 Verify Your Account Now: https://account-verify.example-login.com/secure?token=abc123xyz456
+
+This link will expire in 24 hours. For your security, we recommend completing this step immediately.
+
+If you did not request this verification, please contact MeetSync Support immediately.
+
+Thank you,
+MeetSync Security Team
+© 2025 MeetSync Inc. All rights reserved.

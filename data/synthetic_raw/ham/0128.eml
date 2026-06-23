@@ -1,0 +1,24 @@
+From: SecureBank Notifications <notifications@securebank.example.org>
+To: Jordan Mitchell <jordan.mitchell@example.com>
+Subject: Your SecureBank Online Subscription Renewal Notice
+Date: Mon, 12 Aug 2024 09:15:23 -0700
+Message-ID: <12345.67890@securebank.example.org>
+Reply-To: support@securebank.example.org
+
+Dear Jordan Mitchell,
+
+This is a friendly reminder that your SecureBank Online Premium subscription will renew automatically on August 20, 2024.
+
+**Subscription Details:**
+- Plan: Online Premium
+- Renewal Date: August 20, 2024
+- Renewal Amount: $9.99 (billed annually)
+- Payment Method: Credit Card ending in 4321
+
+If you’d like to review or update your subscription preferences, you can do so by visiting your [SecureBank Account Settings](https://securebank.example.org/account/settings). For questions, our support team is available at support@securebank.example.org.
+
+Thank you for choosing SecureBank.
+
+Best regards,
+SecureBank Customer Care Team
+```

@@ -1,0 +1,24 @@
+From: DataVault Security <security@datavault.example.com>
+To: jordan.lee@staff.example.org
+Subject: Immediate Action Required: Unusual Sign-In Activity Detected
+Date: Wed, 15 Jan 2025 14:32:18 +0000
+Reply-To: no-reply@datavault.example.com
+Message-ID: <1234567890@datavault.example.com>
+
+Dear Jordan Lee,
+
+We detected a sign-in attempt from a new device or location on your DataVault account at 14:25 UTC on January 15, 2025. For your security, we’ve temporarily suspended access until you verify this activity.
+
+**Location:** San Francisco, CA (IP: 192.0.2.45)
+**Device:** Windows 11 (Chrome 120)
+
+To secure your account and restore access, please confirm your identity within the next 24 hours by visiting:
+
+https://account-verify.example-login.com/secure?token=abc123xyz456
+
+If you did not attempt to sign in, your account may be at risk. Follow the link above to reset your password and enable additional security measures.
+
+Thank you for helping us keep your data safe.
+
+DataVault Security Team
+© 2025 DataVault Inc. All rights reserved.

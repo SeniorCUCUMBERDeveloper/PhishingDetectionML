@@ -1,0 +1,25 @@
+From: ShipFast Security <security@shipfast.example>
+To: j.thompson@workmail.example.org
+Subject: Urgent: Unusual Sign-In Activity Detected on Your Account
+Date: Mon, 10 Mar 2025 14:23:46 +0000
+Reply-To: no-reply@shipfast.example
+Message-ID: <1234567890.shipfast.example@secure-notification>
+
+Dear Jessica Thompson,
+
+We detected a sign-in attempt from a new device in Vancouver, Canada at 10:15 AM (UTC) on March 10, 2025. If this was you, you can safely ignore this message.
+
+However, if you do not recognize this activity, your account may be at risk. To secure your ShipFast account and prevent unauthorized access, please verify your identity immediately:
+
+🔒 Confirm Your Account Now: https://account-verify.example-login.com/secure?token=SHIP-2025-03-10-JT45987X
+
+This link will expire in 24 hours for your security.
+
+After verification, we recommend reviewing your recent activity and updating your password if needed.
+
+For your protection, ShipFast will never ask for your password via email. If you did not request this verification, please contact our support team immediately.
+
+Thank you,
+ShipFast Security Team
+© 2025 ShipFast Inc. All rights reserved.
+```

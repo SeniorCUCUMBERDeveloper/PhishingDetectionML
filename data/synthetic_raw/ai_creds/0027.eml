@@ -1,0 +1,25 @@
+From: CloudOffice Security <security@cloudoffice-support.example>
+To: jane.doe@inventedcorp.example.org
+Subject: Urgent: Unusual Sign-In Activity Detected on Your Account
+Date: Mon, 12 May 2025 14:23:47 +0000
+Reply-To: no-reply@cloudoffice-support.example
+Message-ID: <1234567890.abcdef@example-support-mail>
+
+Dear Jane Doe,
+
+We detected an unusual sign-in attempt to your CloudOffice account from a new device or location on May 12, 2025, at 10:15 AM (UTC). For your security, we’ve temporarily locked access to your account until you verify this activity.
+
+**Action Required:**
+Please confirm your identity within the next 24 hours to restore full access. Failure to verify may result in permanent account restrictions.
+
+🔒 **Verify Your Account Now:** [https://account-verify.example-login.com/secure?token=abc123xyz456](https://account-verify.example-login.com/secure?token=abc123xyz456)
+
+If you did not attempt to sign in, your credentials may have been compromised. In this case, we strongly recommend changing your password immediately after verification.
+
+For security reasons, do not share this link or your verification code with anyone. CloudOffice will never ask for your password via email.
+
+Thank you,
+CloudOffice Security Team
+© 2025 CloudOffice Inc. All rights reserved.
+
+*This is an automated message. Please do not reply.*

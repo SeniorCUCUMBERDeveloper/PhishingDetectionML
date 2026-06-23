@@ -1,0 +1,33 @@
+From: Northwind Logistics <newsletter@northwind.example.org>
+To: jane.doe@mail.example.com
+Subject: Your Northwind Logistics Order #NW-742198 Has Shipped
+Date: Wed, 15 May 2024 09:15:23 -0700
+Message-ID: <20240515161523.7A3E8C80021@mail.northwind.example.org>
+Reply-To: support@northwind.example.org
+
+Hello Jane,
+
+Your order #NW-742198 has shipped and is on its way. Here are the details:
+
+**Order Summary**
+- Order Date: May 14, 2024
+- Estimated Delivery: May 17, 2024
+- Shipping Method: Standard Ground
+
+**Items Shipped**
+1. Premium Packaging Tape (12 rolls) – SKU: PT-4521
+2. Bubble Wrap (500 ft) – SKU: BW-8972
+
+**Tracking Information**
+You can track your package using the following link:
+[Track Your Order](https://www.northwind.example.org/track?order=NW-742198)
+
+If you have any questions about your order, feel free to reply to this email or visit our [Help Center](https://support.northwind.example.org).
+
+Thank you for choosing Northwind Logistics!
+
+Best regards,
+The Northwind Logistics Team
+
+---
+You’re receiving this email because you made a purchase with Northwind Logistics. To manage your email preferences, visit [Email Settings](https://www.northwind.example.org/account/preferences).

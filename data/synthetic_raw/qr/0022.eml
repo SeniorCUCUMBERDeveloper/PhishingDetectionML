@@ -1,0 +1,25 @@
+From: FedEx Secure Delivery <noreply@secure-tracking.fedex-express.org>
+To: john.doe@workmail.example.com
+Subject: Action Required: Verify Your Parcel Delivery Access
+Date: Mon, 15 Apr 2024 14:32:18 +0000
+Message-ID: <20240415143218.7A3C2B8D@example.fedex-express.org>
+Reply-To: support@fedex-express.org
+
+Dear John Doe,
+
+We recently detected an issue with your parcel tracking access for shipment #FX-98472613.
+
+To re-activate your tracking privileges and confirm your identity, please scan the QR code below using your mobile device. This will direct you to the secure verification page where you can review and update your delivery preferences.
+
+Scan the QR code below:
+
+[QR-Code-20240415.png]
+
+If you did not request this verification or believe this message was sent in error, please contact our support team immediately at support@fedex-express.org.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+FedEx Secure Delivery Team
+FedEx Express | A Subsidiary of Global Logistics Corp.
+```

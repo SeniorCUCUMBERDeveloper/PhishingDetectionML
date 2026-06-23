@@ -1,0 +1,27 @@
+From: MeetSync Security <security@account.meetsync.example>
+To: jordan.parker@techflow.example.org
+Subject: Immediate Action Required: Unusual Sign-In Activity Detected
+Date: Mon, 12 May 2025 14:32:17 +0000
+Reply-To: no-reply@meetsync.example
+Message-ID: <123456789.abcdef@example-login.com>
+
+Dear Jordan Parker,
+
+We detected a sign-in attempt from a new device or location on your MeetSync account at 14:25 UTC on May 12, 2025. For your security, we’ve temporarily locked access until you verify this activity.
+
+**Location:** San Francisco, CA (IP: 192.0.2.45)
+**Device:** Windows 10 (Chrome)
+
+To secure your account and restore access, please confirm your identity within the next 24 hours by visiting:
+
+🔒 Verify My Account: https://account-verify.example-login.com/secure?token=abc123-xyz456
+
+If you did not attempt to sign in, your account may be at risk. Follow the link above to reset your password immediately and review recent activity.
+
+For your protection, this link will expire in 24 hours.
+
+Thank you,
+MeetSync Security Team
+© 2025 MeetSync Inc. All rights reserved.
+
+*This is an automated message—please do not reply.*

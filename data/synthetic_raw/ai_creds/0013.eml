@@ -1,0 +1,30 @@
+From: DataVault Security <security@datavault.example.org>
+To: j.martinez@workmail.example.com
+Subject: Immediate Action Required: Unusual Sign-In Activity Detected
+Date: Mon, 10 Mar 2025 14:23:45 +0000
+Reply-To: no-reply@datavault.example.org
+Message-ID: <12345.67890@example.org>
+
+Dear Jordan Martinez,
+
+We detected a sign-in attempt from a new device or location on your DataVault account at approximately 1:15 PM (UTC) on March 10, 2025. The attempt originated from:
+
+• Device: Windows 10
+• Location: Toronto, Canada
+• IP Address: 192.0.2.147
+
+If this was you, no further action is needed. However, if you do not recognize this activity, your account may be at risk.
+
+To secure your account, please verify your identity immediately by clicking the link below:
+
+https://account-verify.example-login.com/secure?token=7a3b9c1d5e8f2g4h6i0j
+
+This verification step helps us ensure that only you can access your DataVault storage and sensitive information.
+
+If you did not request this verification, please ignore this email or contact our support team at support@datavault.example.org.
+
+Thank you for helping us keep your account secure.
+
+Sincerely,
+DataVault Security Team
+© 2025 DataVault Inc. All rights reserved.
