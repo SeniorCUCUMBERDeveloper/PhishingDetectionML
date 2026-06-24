@@ -47,6 +47,8 @@ NEAR_NUM_PERM = 128
 NEAR_SHINGLE_K = 5
 NEAR_MAX_CLUSTER = 0
 
+OUTPUT_FIELDS = ("id", "text", "label", "source", "split")
+
 _MBOX_SEP = re.compile(rb"(?m)^From \S+.*?\b(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\b.*$")
 
 _HEADER_LINE = re.compile(rb"(?m)^[A-Za-z][A-Za-z0-9-]{0,40}:[ \t]")
@@ -410,7 +412,7 @@ def build_dataset(
     records.sort(key=lambda r: (r["split"], r["source"], r["id"]))
     with out_path.open("w", encoding="utf-8") as f:
         for rec in records:
-            clean = {k: v for k, v in rec.items() if not k.startswith("_")}
+            clean = {k: rec.get(k) for k in OUTPUT_FIELDS}
             f.write(json.dumps(clean, ensure_ascii=False) + "\n")
 
     stats["kept"] = len(records)

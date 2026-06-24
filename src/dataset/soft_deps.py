@@ -9,12 +9,3 @@ try:
 except Exception:
     BeautifulSoup = None
     _HAVE_BS4 = False
-
-try:
-    from PIL import Image
-    from pyzbar.pyzbar import decode as _qr_decode
-    _HAVE_QR = True
-except Exception:
-    Image = None
-    _qr_decode = None
-    _HAVE_QR = False
